@@ -1,0 +1,50 @@
+#wrapper {
+	background-image: url('../images/main_background.png');
+	background-repeat: no-repeat; 
+	background-position: top;
+	width: 100%;
+	height: 530px;
+}
+
+#top {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#header {
+	padding-top: 30px;
+	text-align: center;
+}
+
+#main_title {
+	display: block;
+	margin: 30px auto;
+	height: 290px;
+}
+
+#copy_1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+
+#btnArea {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+#btn_1 {
+	padding-right: 10px;
+}
+
+#btn_2 {
+	padding-left: 10px;
+}
+
+li {
+	display: inline;
+	color: white;
+	padding: 35px;
+	font-size: 14px;
+}
