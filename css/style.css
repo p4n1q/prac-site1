@@ -1,4 +1,4 @@
-#wrapper {
+#top {
 	background-image: url('../images/main_background.png');
 	background-repeat: no-repeat; 
 	background-position: top;
@@ -6,7 +6,7 @@
 	height: 530px;
 }
 
-#top {
+#top_image {
 	margin: 0 auto;
 	width: 900px;
 }
@@ -24,8 +24,7 @@
 
 #copy_1 {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
 	margin-bottom: 15px;
 }
 
@@ -48,3 +47,198 @@ li {
 	padding: 35px;
 	font-size: 14px;
 }
+
+#content {
+	background-image: url('../images/bg_blue.png');
+	background-repeat: no-repeat;
+	background-color: black;
+	margin: 0 auto;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+
+#left-image {
+	width: 350px;
+}
+
+#right-image {
+	width: 350px;
+	padding-left: 40px;
+}
+
+#content1 {
+	margin-top: 30px;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+}
+
+p {
+	width: 900px;
+	margin: 30px auto;
+	color: white;
+}
+
+p.center {
+	line-height: 40px;
+}
+
+table {
+	text-align: center;
+	margin:0 auto;
+	border-collapse: collapse;
+	margin-top: 10px;
+	margin-bottom:  30px;
+}
+
+th {
+	width: 130px;
+	border: solid thin white;
+	padding: 20px;
+	text-align: left;
+}
+
+td {
+	width: 450px;
+	border: solid thin white;
+	text-align: left;
+	padding: 20px
+}
+
+p.line-height {
+	line-height: 40px;
+	text-align: left;
+}
+
+p.left {
+	text-align: left;
+}
+
+h3 {
+	color: white;
+	margin-bottom: -10px;
+}
+
+h4 {
+	text-align: left;
+	border-bottom:  solid thin white;
+}
+
+p.title {
+	text-align: left;
+	border-bottom: solid thin white;
+	margin-bottom: 40px;
+}
+
+#tweet {
+	height: 600px;
+	width: 450px;
+	border: solid thin white;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+p.line-height#contentlast {
+	padding-bottom: 50px;
+}
+
+#middle {
+	background-image: url('../images/bg_blue.png');
+	background-repeat: no-repeat;
+	background-color: black;
+	margin: 0 auto;
+	padding: 50px;
+	text-align: center;
+	color: white;
+}
+
+#entry {
+	display: block;
+	margin: 30px auto;
+}
+
+#tweetfollow {
+	height: 20px;
+	width: 200px;
+	border: solid thin white;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+#slideshow {
+	height: 350px;
+	width: 600px;
+	border: solid thin white;
+	margin: 30px auto;
+}
+
+#bottom {
+	background-image: url('../images/bg_red.png');
+	background-repeat: no-repeat;
+	background-color: black;
+	margin: 0 auto;
+	padding-top: 50px;
+	text-align: center;
+	color: white;
+}
+
+#attendance {
+	display: block;
+	margin: 30px auto;
+}
+
+#haisin_2 {
+	padding: 0 30px;
+}
+
+#sponser {
+	display: block;
+	margin: 50px auto 30px auto;
+}
+
+#logo {
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+}
+
+#management {
+	margin-top: 30px;
+}
+
+h4 {
+	font-size: 10;
+	border-bottom: solid thin white;
+	margin: 0 auto;
+	width: 1000px;
+	margin-bottom: 30px;
+}
+
+h5 {
+	margin: 0 auto;
+	text-align: left;
+	width: 900px;
+}
+
+#copyright {
+	font-size: 13px;
+	margin:70px auto 0 auto;
+	padding-bottom: 8px; 
+}
+
+p.line-height#finish {
+	font-size: 13px
+}
+
+#footer {
+	background-image: url('../images/footer_line.png');
+	background-repeat: no-repeat;
+	background-color: black;
+	height: 10px;
+	width: 100%;
+}
+
